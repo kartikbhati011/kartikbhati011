@@ -1,5 +1,6 @@
 # 💫 About Me:
 Nothing
+I use arch BTW
 
 
 ## 🌐 Socials:
