@@ -1,5 +1,4 @@
 # 💫 About Me
-### Let's Larp
 # I use arch BTW
 
 
